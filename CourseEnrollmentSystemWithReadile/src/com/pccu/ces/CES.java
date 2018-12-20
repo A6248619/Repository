@@ -171,7 +171,7 @@ public class CES extends Student {
 		}
 	}
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		
 		boolean exit = false;
